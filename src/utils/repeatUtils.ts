@@ -1,1 +1,3 @@
-export const generateRepeatedEvents = () => {};
+import { Event } from '../types';
+
+export const generateRepeatedEvents = (event: Event) => {};
