@@ -1,3 +1,5 @@
 import { Event } from '../types';
 
-export const generateRepeatedEvents = (event: Event) => {};
+export const generateRepeatedEvents = (event: Event): Event[] => {
+  return [];
+};
